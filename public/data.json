@@ -1,0 +1,75 @@
+{
+  "ticker": [
+    {
+      "id": "2e0cc626-5748-45ae-8780-5cd760348e9e",
+      "body": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": "3fa70395-b136-4432-9a61-4a930e9e4b27",
+      "body": "consectetur adipiscing elit"
+    },
+    {
+      "id": "510ccfcd-d89b-4585-9d1b-801845d4efdb",
+      "body": "Etiam eu ex convallis, finibus purus id, suscip"
+    }
+  ],
+  "events": [
+    {
+      "id": "0b1be716-bd45-4f2e-ad39-4482e89a2105",
+      "time": 5,
+      "type": "goal",
+      "player": "Buddy Cullen",
+      "distanceOfShot": 20,
+      "newScore": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "343738e5-7c11-4b48-9d28-7d3d66823744",
+      "time": 12,
+      "type": "card",
+      "cardType": "red",
+      "player": "Roydon Vernon"
+    },
+    {
+      "id": "436d934b-1923-4028-a0cb-6d9aa12f09e9",
+      "time": 30,
+      "type": "goal",
+      "player": "Buddy Cullen",
+      "distanceOfShot": 13,
+      "newScore": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "f76b24f2-0cd8-4318-9449-3827e08eef43",
+      "time": 45,
+      "type": "endHalf"
+    },
+    {
+      "id": "5327c784-aad2-44fa-a784-f11997679cd6",
+      "time": 55,
+      "type": "card",
+      "cardType": "yellow",
+      "player": "Oswald Patton"
+    },
+    {
+      "id": "a3b4cbcb-ac16-48cd-ae69-9b1c512fed7e",
+      "time": 52,
+      "type": "goal",
+      "player": "Dallas Patrick",
+      "distanceOfShot": 4,
+      "newScore": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "f76b24f2-0cd8-4318-9449-3827e08eef43",
+      "time": 90,
+      "type": "endGame"
+    }
+  ]
+}

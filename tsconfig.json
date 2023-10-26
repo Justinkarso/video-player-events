@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true ,
+    "skipLibCheck": true ,
+    "target": "es5",
+    "jsx": "react",
+    "esModuleInterop": true,
+  },
+  "include": ["**/*.ts", "**/*.tsx", "webpack.config.js"]
+}
